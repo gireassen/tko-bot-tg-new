@@ -1,0 +1,15 @@
+{
+  "project": [
+    "${project1}", "${project2}"
+  ],
+
+  "bot": "${bot}",
+  "chat_id": "${chat_id}",
+
+  "youtrack": {
+    "baseUrl": "https://support.corp.ru/youtrack"
+
+  }
+}
+
+
